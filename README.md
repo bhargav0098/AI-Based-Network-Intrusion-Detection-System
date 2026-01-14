@@ -50,10 +50,8 @@ This project is for **educational purposes**. For real-world production environm
 Built with ❤️ by [Bhargav](https://github.com/bhargav0098)
 
 <p>
-  <img src="https://github.com/user-attachments/assets/c1644224-25bf-45ea-bb29-25aeeb65b1cb" width="50%">
-  <img src="https://github.com/user-attachments/assets/d36ba4da-0170-44e6-9edd-a8aa0295be73" width="50%">
+  <img src="https://github.com/user-attachments/assets/c1644224-25bf-45ea-bb29-25aeeb65b1cb" width="50%"><img src="https://github.com/user-attachments/assets/d36ba4da-0170-44e6-9edd-a8aa0295be73" width="50%">
 </p>
 <p>
-  <img src="https://github.com/user-attachments/assets/ec0857ec-d918-4da3-a6e5-2fff39e12841" width="50%">
-  <img src="https://github.com/user-attachments/assets/376eb59d-8077-4674-ad40-e1107731930b" width="50%">
+  <img src="https://github.com/user-attachments/assets/ec0857ec-d918-4da3-a6e5-2fff39e12841" width="50%"><img src="https://github.com/user-attachments/assets/376eb59d-8077-4674-ad40-e1107731930b" width="50%">
 </p>
